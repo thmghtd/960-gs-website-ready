@@ -15,11 +15,13 @@ and template files for Adobe Fireworks and Photoshop, OmniGraffle and Visio.
 Also included is a lightweight CSS file, which contains the grid dimensions.
 To use this file, simply include the 960.css in the <head> of the HTML page.	
 You may also use the text.css file, or opt to leave it out.
-Here is an example of the XHTML code necessary to incorporate the CSS files:
+Here is an example of the XHTML code necessary to incorporate the CSS & JS files:
 
 <head>
 <link rel="stylesheet" type="text/css" media="all" href="css/text.css" />
 <link rel="stylesheet" type="text/css" media="all" href="css/core.css" />
+<!--[if lte IE 7]><link rel="stylesheet" href="css/ie.css" /><![endif]-->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js" type="text/javascript"></script>
 </head>
 
 It is worth noting that these styles do not automatically make up a finished
