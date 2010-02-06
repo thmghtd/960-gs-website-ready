@@ -13,11 +13,11 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acron
 ------------------------------------*/
 
 body {
-	background:	#123;
-	border-top:	5px solid #000;
-	color:			#333;
-	font:				13px/1.5 'Helvetica Neue', Arial, 'Liberation Sans', FreeSans, sans-serif;
-	padding:		20px 0 40px;
+	background: #123;
+	border-top: 5px solid #000;
+	color: #333;
+	font: 13px/1.5 'Helvetica Neue', Arial, 'Liberation Sans', FreeSans, sans-serif;
+	padding: 20px 0 40px;
 }
 
 a       { color: #fff; text-decoration: none; }
@@ -25,25 +25,25 @@ a:hover { text-decoration: underline;         }
 a:focus { outline: 1px dotted;                }
 
 hr {
-	border:						0 #ccc solid;
-	border-top-width:	1px;
-	clear:						both;
-	height:						0;
+	border: 0 #ccc solid;
+	border-top-width: 1px;
+	clear: both;
+	height: 0;
 }
 
 /* `Headings
 ------------------------------------*/
 h1 {
-	font-family:	Georgia, serif;
-	font-size:		25px;
-	font-weight:	normal;
-	text-align:		center;
+	font-family: Georgia, serif;
+	font-size: 25px;
+	font-weight: normal;
+	text-align: center;
 }
 
 h2 {
-	font-size:	23px;
-	padding:		20px 0 0;
-	text-align:	center;
+	font-size: 23px;
+	padding: 20px 0 0;
+	text-align: center;
 }
 
 h3 { font-size: 21px; }
@@ -52,10 +52,10 @@ h5 { font-size: 17px; }
 h6 { font-size: 15px; }
 
 p {
-	outline:		1px solid #666;
-	overflow:		hidden;
-	padding:		10px 0;
-	text-align:	center;
+	outline: 1px solid #666;
+	overflow: hidden;
+	padding: 10px 0;
+	text-align: center;
 }
 
 /* `Spacing
