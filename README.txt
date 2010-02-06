@@ -1,3 +1,5 @@
+Edited to reflect fork changes.
+
 960 Grid System
 Version 1.4
 2009-12-20
@@ -12,13 +14,12 @@ and template files for Adobe Fireworks and Photoshop, OmniGraffle and Visio.
 
 Also included is a lightweight CSS file, which contains the grid dimensions.
 To use this file, simply include the 960.css in the <head> of the HTML page.	
-You may also use the reset.css and text.css files, or opt to leave them out.
+You may also use the text.css file, or opt to leave it out.
 Here is an example of the XHTML code necessary to incorporate the CSS files:
 
 <head>
-<link rel="stylesheet" type="text/css" media="all" href="css/reset.css" />
 <link rel="stylesheet" type="text/css" media="all" href="css/text.css" />
-<link rel="stylesheet" type="text/css" media="all" href="css/960.css" />
+<link rel="stylesheet" type="text/css" media="all" href="css/core.css" />
 </head>
 
 It is worth noting that these styles do not automatically make up a finished
