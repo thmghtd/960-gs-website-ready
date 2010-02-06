@@ -7,7 +7,6 @@
 
 /* `Containers
 ------------------------------------*/
-
 .container {
 	background:	#FFF url(../img/12_col.gif) repeat-y;
 	margin:			0 auto;
@@ -16,7 +15,6 @@
 
 /* `Grid >> Global
 ------------------------------------*/
-
 .grid_1,.grid_2,.grid_3,.grid_4,
 .grid_5,.grid_6,.grid_7,.grid_8,
 .grid_9,.grid_10,.grid_11,.grid_12 {
