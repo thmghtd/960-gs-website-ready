@@ -8,9 +8,9 @@
 /* `Containers
 ------------------------------------*/
 .container {
-	background:	#FFF url(../img/12_col.gif) repeat-y;
-	margin:			0 auto;
-	width:			960px;
+	background: #FFF url(../img/12_col.gif) repeat-y;
+	margin: 0 auto;
+	width: 960px;
 }
 
 /* `Grid >> Global
@@ -18,11 +18,11 @@
 .grid_1,.grid_2,.grid_3,.grid_4,
 .grid_5,.grid_6,.grid_7,.grid_8,
 .grid_9,.grid_10,.grid_11,.grid_12 {
-	display:			inline;
-	float:				left;
-	position:			relative;
-	margin-left:	10px;
-	margin-right:	10px;
+	display: inline;
+	float: left;
+	position: relative;
+	margin-left: 10px;
+	margin-right: 10px;
 }
 
 /* `Children
@@ -104,10 +104,10 @@
 /* `Clear
 ------------------------------------*/
 .clear {
-	clear:			both;
-	display:		block;
-	overflow:		hidden;
-	visibility:	hidden;
-	width:			0;
-	height:			0;
+	clear: both;
+	display: block;
+	overflow: hidden;
+	visibility: hidden;
+	width: 0;
+	height: 0;
 }
